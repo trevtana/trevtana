@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Arkan Ardiansyah!
 
-> "Coding boleh, kesetrum jangan!" ⚡😄
-
 I'm a student at **SMK NEGERI 1 CIMAHI** who's currently **learning** and **exploring** the world of **IoT** and programming. I'm especially interested in microcontrollers, elektronik dasar, dan hal-hal yang bisa nyala kalau dikasih kabel (dengan benar ya 😅).
 
 ---
