@@ -12,13 +12,6 @@ I'm a student at **SMK NEGERI 1 CIMAHI** who's currently **learning** and **expl
 - 🕸️ Mulai ngulik backend dengan **Laravel** 
 - 🔧 Eksperimen dengan sensor dan rangkaian elektronik
 
----
-
-## 🛠️ Tools & Minat
-
-- Suka utak-atik kabel dan nyolder meskipun kadang salah pin 😅
-- Tertarik dengan teknologi yang bisa bantu kehidupan sehari-hari
-- Belajar ngoding sambil nyari tahu "kenapa error terus..."
 
 ---
 
