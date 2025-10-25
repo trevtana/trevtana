@@ -1,29 +1,27 @@
-# 👋 Hi, I'm Arkan Ardiansyah!
+# Hello, I'm Arkan 👋
 
-I'm a student at **SMK NEGERI 1 CIMAHI** who's currently **learning** and **exploring** the world of **IoT** and programming. I'm especially interested in microcontrollers, elektronik dasar, dan hal-hal yang bisa nyala kalau dikasih kabel (dengan benar ya 😅).
+Software Engineering student at SMK Negeri 1 Cimahi, focused on continuous learning and building practical solutions.
 
----
+## Current Focus
 
-## 🧑‍💻 Apa yang Lagi Aku Pelajari
+- **Web Development** — Building responsive and functional web applications
+- **Mobile Development** — Creating cross-platform mobile experiences
+- **IoT** — Exploring hardware-software integration
+- **Electronics** — Learning fundamental circuit design and microcontrollers
 
-- 🔌 Belajar bikin proyek IoT sederhana pakai **Arduino + bahasa C**
-- 💻 Coba-coba berbagai bahasa pemrograman seperti:  
-  `C`, `C++`, `C#`, `Java`, `Python`, `HTML`, `CSS`
-- 🕸️ Mulai ngulik backend dengan **Laravel** 
-- 🔧 Eksperimen dengan sensor dan rangkaian elektronik
+## Technical Skills
 
+**Languages**  
+C • C++ • C# • Java • Python • JavaScript • PHP
 
----
+**Frameworks & Tools**  
+Laravel • React • Bootstrap • Tailwind CSS • Flutter/Dart • Node.js
 
-## 📈 GitHub Stats
+## Connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trevtana&show_icons=true&theme=tokyonight)
-
----
-
-## 🤝 Yuk Kenalan!
-
-- 📬 Email: miptahfardi@gmail.com  
-- 📸 Instagram: [@arkannn.ar](https://www.instagram.com/arkannn.ar/)
+📧 [miptahfardi@gmail.com](mailto:miptahfardi@gmail.com)  
+📸 [Instagram](https://www.instagram.com/arkannn.ar/)
 
 ---
+
+*Always learning, always building.*
